@@ -1,0 +1,5 @@
+lists:
+  - name: yumo
+    length: 1
+    rules:
+      - "domain:123456.com"
